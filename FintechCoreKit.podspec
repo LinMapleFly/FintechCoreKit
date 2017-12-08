@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FintechCoreKit'
-  s.version          = ''
+  s.version          = '1.0.1'
   s.summary          = 'FintechCoreKit for Fintech CoreModel'
 
 # This description is used to generate tags and improve search results.
